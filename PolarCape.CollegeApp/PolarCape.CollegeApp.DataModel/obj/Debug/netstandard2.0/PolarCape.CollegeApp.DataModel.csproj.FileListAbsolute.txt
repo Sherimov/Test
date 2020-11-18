@@ -1,0 +1,5 @@
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.DataModel\bin\Debug\netstandard2.0\PolarCape.CollegeApp.DataModel.deps.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.DataModel\bin\Debug\netstandard2.0\PolarCape.CollegeApp.DataModel.dll
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.DataModel\obj\Debug\netstandard2.0\PolarCape.CollegeApp.DataModel.csprojAssemblyReference.cache
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.DataModel\obj\Debug\netstandard2.0\PolarCape.CollegeApp.DataModel.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.DataModel\obj\Debug\netstandard2.0\PolarCape.CollegeApp.DataModel.AssemblyInfo.cs

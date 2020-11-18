@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2mv9oNdolhWFjsEXabG1YhSPBznmqC4iiOEBBRf4Q+6Z5V6q1+LE9GagNJWySiyG7bFka4EUQyNTtT9LudVBgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vasil\\Desktop\\PolarCape_CollegeTask\\PolarCape.CollegeApp\\PolarCape.CollegeApp.DataAccess\\PolarCape.CollegeApp.DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.deps.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.runtimeconfig.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.runtimeconfig.dev.json
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\bin\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.dll
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.csprojAssemblyReference.cache
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.AssemblyInfoInputs.cache
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.AssemblyInfo.cs
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.RazorAssemblyInfo.cache
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.RazorAssemblyInfo.cs
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.RazorTargetAssemblyInfo.cache
+C:\Users\vasil\Desktop\PolarCape_CollegeTask\PolarCape.CollegeApp\PolarCape.CollegeApp.Api\obj\Debug\netcoreapp2.1\PolarCape.CollegeApp.Api.genruntimeconfig.cache
